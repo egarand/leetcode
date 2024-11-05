@@ -8,6 +8,7 @@ This repository contains all my solutions for the LeetCode problems I've done. C
 -----|---------------------------|---
 1    | Two Sum                   | [Solution](solutions/1.%20Two%20Sum/)
 9    | Palindrome Number         | [Solution](solutions/9.%20Palindrome%20Number/)
+605  | Can Place Flowers         | [Solution](solutions/605.%20Can%20Place%20Flowers/)
 1071 | GCD of Strings            | [Solution](solutions/1071.%20GCD%20of%20Strings/)
 1431 | Kids With Candies         | [Solution](solutions/1431.%20Kids%20With%20Candies/)
 1768 | Merge Strings Alternately | [Solution](solutions/1768.%20Merge%20Strings%20Alternately/)
