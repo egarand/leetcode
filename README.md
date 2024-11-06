@@ -8,6 +8,7 @@ This repository contains all my solutions for the LeetCode problems I've done. C
 -----|---------------------------|---
 1    | Two Sum                   | [Solution](solutions/1.%20Two%20Sum/)
 9    | Palindrome Number         | [Solution](solutions/9.%20Palindrome%20Number/)
+151  | Reverse Words in a String | [Solution](solutions/151.%20Reverse%20Words%20in%20a%20String/)
 345  | Reverse Vowels of a String| [Solution](solutions/345.%20Reverse%20Vowels%20of%20a%20String/)
 605  | Can Place Flowers         | [Solution](solutions/605.%20Can%20Place%20Flowers/)
 1071 | GCD of Strings            | [Solution](solutions/1071.%20GCD%20of%20Strings/)
